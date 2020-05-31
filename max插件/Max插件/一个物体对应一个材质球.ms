@@ -1,0 +1,1 @@
+&nbsp;for tObj in Objects do (tObj.material = Copy tObj.material ;tObj.material.Name = tObj.name)

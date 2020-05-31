@@ -1,0 +1,1 @@
+for i = 1 to scenematerials.count do scenematerials[i].Name = "mtl" + i as string

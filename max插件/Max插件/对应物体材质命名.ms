@@ -1,0 +1,1 @@
+&nbsp;for i in objects where i.mat != undefined do i.mat.name = i.name
